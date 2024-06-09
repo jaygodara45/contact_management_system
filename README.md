@@ -16,13 +16,13 @@ Navigate to the root directory of the project and create .env file. Add the foll
 MONGO_URI=your_mongodb_uri
 ```
 
-### Install Dependencies
+### 3. Install Dependencies
 Install all the required dependencies using the command:
 ```bash
 npm install
 ```
 
-### Run the Server
+### 4. Run the Server
 Start the application by running the following command:
 ```bash
 npx nodemon app.js
